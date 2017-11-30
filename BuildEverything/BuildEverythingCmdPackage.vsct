@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CommandTable xmlns="http://schemas.microsoft.com/VisualStudio/2005-10-18/CommandTable" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <Extern href="stdidcmd.h"/>
+  <Extern href="vsshlids.h"/>
+  <Commands package="guidBuildEverythingCmdPackage">
+    <Groups>
+      <Group guid="guidBuildEverythingCmdPackageCmdSet" id="MyMenuGroup" priority="0x0600">
+        <!--<Parent guid="guidSHLMainMenu" id="IDM_VS_MENU_TOOLS"/>-->
+        <Parent guid="guidBuildEverythingWindowRightClickCmdSet" id="BuildEverythingWindowRightClickMenu"/>
+      </Group>
+    </Groups>
+    <Buttons>
+      <Button guid="guidBuildEverythingCmdPackageCmdSet" id="BuildEverythingCmdId" priority="0x0100" type="Button">
+        <Parent guid="guidBuildEverythingCmdPackageCmdSet" id="MyMenuGroup" />
+        <Icon guid="guidImages" id="bmpPic1" />
+        <Strings>
+          <ButtonText>BuildEverything</ButtonText>
+        </Strings>
+      </Button>
+    </Buttons>
+    <Bitmaps>
+      <Bitmap guid="guidImages" href="Resources\BuildEverythingCmd.png" usedList="bmpPic1, bmpPic2, bmpPicSearch, bmpPicX, bmpPicArrows, bmpPicStrikethrough"/>
+    </Bitmaps>
+  </Commands>
+  <!--为命令绑定快捷键-->
+  <KeyBindings>
+    <KeyBinding guid="guidBuildEverythingCmdPackageCmdSet" id="BuildEverythingCmdId" editor="guidVSStd97" key1="M" mod1="Control Shift" />
+  </KeyBindings>
+  <Symbols>
+
+    <GuidSymbol name="guidBuildEverythingCmdPackage" value="{0d1b9419-9193-43ef-b38f-1cf80504ae86}" />
+
+    <GuidSymbol name="guidBuildEverythingCmdPackageCmdSet" value="{8fd676d0-6729-4d47-a40b-c36a187c89f5}">
+      <IDSymbol name="MyMenuGroup" value="0x1020" />
+      <IDSymbol name="BuildEverythingCmdId" value="0x0100" />
+    </GuidSymbol>
+    <GuidSymbol name="guidBuildEverythingWindowRightClickCmdSet" value="{D309F791-903F-11D0-9EFC-00A0C911004F}">
+      <!--<IDSymbol name="CodeWindowRightClickCmdSet" value="1073" />-->
+      <IDSymbol name="BuildEverythingWindowRightClickMenu" value="1026" />
+    </GuidSymbol>
+    <GuidSymbol name="guidImages" value="{8fe8ab3e-aae7-4731-a4b8-a480b6afa845}" >
+      <IDSymbol name="bmpPic1" value="1" />
+      <IDSymbol name="bmpPic2" value="2" />
+      <IDSymbol name="bmpPicSearch" value="3" />
+      <IDSymbol name="bmpPicX" value="4" />
+      <IDSymbol name="bmpPicArrows" value="5" />
+      <IDSymbol name="bmpPicStrikethrough" value="6" />
+    </GuidSymbol>
+  </Symbols>
+</CommandTable>
