@@ -1,0 +1,130 @@
+﻿##=============================创建一个宏把数据库类型转换为CSharp类型  用法 #GetCSharpType($v)  $v 可以是变量
+#macro(GetCSharpType $v)
+#if($v == "bigint")
+long#elseif($v == "binary")
+byte[]#elseif($v == "bit")
+bool#elseif($v == "char")
+string#elseif($v == "date")
+DateTime#elseif($v == "datetime")
+DateTime#elseif($v == "datetime2")
+DateTime#elseif($v == "datetimeoffset")
+DateTime#elseif($v == "decimal")
+decimal#elseif($v == "float")
+double#elseif($v == "image")
+byte[]#elseif($v == "int")
+int#elseif($v == "money")
+decimal#elseif($v == "nchar")
+string#elseif($v == "ntext")
+string#elseif($v == "numeric")
+decimal#elseif($v == "nvarchar")
+string#elseif($v == "real")
+Single#elseif($v == "smalldatetime")
+DateTime#elseif($v == "smallint")
+Int16#elseif($v == "smallmoney")
+decimal#elseif($v == "text")
+string#elseif($v == "time")
+DateTime#elseif($v == "timestamp")
+byte[]#elseif($v == "tinyint")
+byte#elseif($v == "uniqueidentifier")
+Guid#elseif($v == "varbinary")
+byte[]#elseif($v == "varchar")
+string#elseif($v == "xml")
+string#else 
+$v#end
+#end
+##=============================创建一个宏把数据库类型转换为CSharp类型  用法 #GetSqlDbType($t)  $t 可以是变量
+#macro(GetSqlDbType $v)
+#if($v == "bigint")
+SqlDbType.BigInt#elseif($v == "binary")
+SqlDbType.Binary#elseif($v == "bit")
+SqlDbType.Bit#elseif($v == "char")
+SqlDbType.Char#elseif($v == "date")
+SqlDbType.Date#elseif($v == "datetime")
+SqlDbType.DateTime#elseif($v == "datetime2")
+SqlDbType.DateTime2#elseif($v == "datetimeoffset")
+SqlDbType.DateTimeOffset#elseif($v == "decimal")
+SqlDbType.Decimal#elseif($v == "float")
+SqlDbType.Float#elseif($v == "image")
+SqlDbType.Image#elseif($v == "int")
+SqlDbType.Int#elseif($v == "money")
+SqlDbType.Money#elseif($v == "nchar")
+SqlDbType.NChar#elseif($v == "ntext")
+SqlDbType.NText#elseif($v == "numeric")
+SqlDbType.Decimal#elseif($v == "nvarchar")
+SqlDbType.NVarChar#elseif($v == "real")
+SqlDbType.Real#elseif($v == "smalldatetime")
+SqlDbType.SmallDateTime#elseif($v == "smallint")
+SqlDbType.SmallInt#elseif($v == "smallmoney")
+SqlDbType.SmallMoney#elseif($v == "text")
+SqlDbType.Text#elseif($v == "time")
+SqlDbType.Time#elseif($v == "timestamp")
+SqlDbType.Timestamp#elseif($v == "tinyint")
+SqlDbType.TinyInt#elseif($v == "uniqueidentifier")
+SqlDbType.UniqueIdentifier#elseif($v == "varbinary")
+SqlDbType.VarBinary#elseif($v == "varchar")
+SqlDbType.VarChar#elseif($v == "xml")
+SqlDbType.Xml#else 
+SqlDbType.VarChar#end
+#end
+##=============================创建一个宏获取SqlDbType的长度,如果是ntext 或者是text 就不返回长度
+#macro(GetSqlDbTypeLen $v $l)
+#if($v != "ntext" || $v == "text"), $l#end
+#end
+##=============================创建一个宏获取是否可以为空
+#macro(GetIsNull $t $v)
+#if($t != "char" && $t != "nchar" && $t != "ntext" && $t != "nvarchar" && $t != "text" && $t != "varchar")
+#if($v.ToString() == "True" || $t == "int" || $t == "bigint" || $t == "bit"|| $t == "decimal"|| $t == "float"|| $t == "money"|| $t == "numeric"|| $t == "smalldatetime"|| $t == "smallint"|| $t == "smallmoney" || $t == "timestamp")?#end
+#end
+#end
+using System;
+using System.Text;
+using System.Data;
+using System.ComponentModel;
+using Tc.Gl.Framework.ORM.Base;
+using System.Collections.Generic;
+using Tc.Gl.Framework.ORM.Attrbuites;
+using System.ComponentModel.DataAnnotations;
+
+
+namespace $NameSpace
+{
+	[Serializable]
+	[Entity("$TableName")]
+	public partial class $TableName : BaseEntity<$TableName>
+	{
+		public const string DBNAME = "$DBName";
+	
+		#region 属性
+	
+	#foreach($col in $Entity)
+	#set($t = $col.ColType)	
+	private #GetCSharpType($t) _$col.ColName.ToString().ToLower();
+	
+		/// <summary>
+		/// $col.ColDesc
+		/// </summary>
+		[Description("$col.ColDesc")]
+	#if($col.ColIsPri !="")
+	[PrimaryKey]
+	#if($col.ColIsinc !="")
+	[Identity]
+	#end
+	[Key]
+	#end
+	public #GetCSharpType($t) $col.ColName
+			{
+				get
+				{
+					return _$col.ColName.ToString().ToLower();
+				}
+				set
+				{
+					this.ChangeStack("$col.ColName", value, this._$col.ColName.ToString().ToLower());
+					this._$col.ColName.ToString().ToLower() = value;
+				}
+			}
+		
+		#end
+		#endregion
+	}
+}

@@ -1,0 +1,43 @@
+﻿using System;
+using System.Text;
+using System.Data;
+using System.ComponentModel;
+using Tc.Gl.Framework.ORM.Base;
+using System.Collections.Generic;
+using Tc.Gl.Framework.ORM.Attrbuites;
+using System.ComponentModel.DataAnnotations;
+
+namespace $NameSpace
+{
+	[Serializable]
+	[Entity(@"$SQL")]
+	public partial class $TableName : BaseEntity<$TableName>
+	{
+		public const string DBNAME = "$DBName";
+	
+		#region 属性
+	
+	#foreach($col in $Entity)
+	private $col.ColType _$col.ColName.ToString().ToLower();
+	
+		/// <summary>
+		/// $col.ColName
+		/// </summary>
+		[Description("$col.ColName")]
+		public $col.ColType $col.ColName
+		{
+			get
+			{
+				return _$col.ColName.ToString().ToLower();
+			}
+			set
+			{
+				this.ChangeStack("$col.ColName", value, this._$col.ColName.ToString().ToLower());
+				this._$col.ColName.ToString().ToLower() = value;
+			}
+		}
+		
+		#end
+		#endregion
+	}
+}

@@ -1,0 +1,375 @@
+D:\111\222\BuildEverythingSolution\BuildEverything\obj\Debug\VSPackage.resources
+D:\111\222\BuildEverythingSolution\BuildEverything\obj\Debug\BuildEverything.FormFiles.BEMainForm.resources
+D:\111\222\BuildEverythingSolution\BuildEverything\obj\Debug\BuildEverything.csproj.GenerateResource.Cache
+D:\111\222\BuildEverythingSolution\BuildEverything\obj\Debug\BuildEverythingCmdPackage.cto
+D:\111\222\BuildEverythingSolution\BuildEverything\obj\Debug\VSCT.read.1.tlog
+D:\111\222\BuildEverythingSolution\BuildEverything\obj\Debug\VSCT.write.1.tlog
+D:\111\222\BuildEverythingSolution\BuildEverything\obj\Debug\CtoResourceMerger.cache
+D:\111\222\BuildEverythingSolution\BuildEverything\obj\Debug\VSPackage.resources.original
+D:\111\222\BuildEverythingSolution\BuildEverything\obj\Debug\BuildEverything.csproj.CoreCompileInputs.cache
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\BuildEverything.dll.config
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\BuildEverything.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\BuildEverything.pkgdef
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\BuildEverything.vsix
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\extension.vsixmanifest
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\EnvDTE.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\EnvDTE100.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\EnvDTE80.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\EnvDTE90.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.CommandBars.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Threading.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Validation.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\MySql.Data.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\NVelocity.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\stdole.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\EnvDTE90a.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Text.Data.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.MSXML.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Threading.xml
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Validation.xml
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\NVelocity.xml
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Text.Data.xml
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\cs\Microsoft.VisualStudio.Threading.resources.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\de\Microsoft.VisualStudio.Threading.resources.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\es\Microsoft.VisualStudio.Threading.resources.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\fr\Microsoft.VisualStudio.Threading.resources.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\it\Microsoft.VisualStudio.Threading.resources.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\ja\Microsoft.VisualStudio.Threading.resources.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\ko\Microsoft.VisualStudio.Threading.resources.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\pl\Microsoft.VisualStudio.Threading.resources.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\ru\Microsoft.VisualStudio.Threading.resources.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\tr\Microsoft.VisualStudio.Threading.resources.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\cs\Microsoft.VisualStudio.Validation.resources.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\de\Microsoft.VisualStudio.Validation.resources.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\es\Microsoft.VisualStudio.Validation.resources.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\fr\Microsoft.VisualStudio.Validation.resources.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\it\Microsoft.VisualStudio.Validation.resources.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\ja\Microsoft.VisualStudio.Validation.resources.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\ko\Microsoft.VisualStudio.Validation.resources.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\pl\Microsoft.VisualStudio.Validation.resources.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\ru\Microsoft.VisualStudio.Validation.resources.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\tr\Microsoft.VisualStudio.Validation.resources.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\zh-Hans\Microsoft.VisualStudio.GraphModel.resources.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\obj\Debug\BuildEverything.dll
+D:\111\222\BuildEverythingSolution\BuildEverything\obj\Debug\BuildEverything.pdb
+D:\111\222\BuildEverythingSolution\BuildEverything\obj\Debug\BuildEverything.pkgdef
+D:\111\222\BuildEverythingSolution\BuildEverything\obj\Debug\BuildEverything.latest.pkgdef
+D:\111\222\BuildEverythingSolution\BuildEverything\obj\Debug\extension.vsixmanifest
+D:\111\222\BuildEverythingSolution\BuildEverything\obj\Debug\BuildEverything.FormFiles.TempConnect.resources
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\Resources\microsoftsql-server.png
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\Resources\BuildEverythingCmd.png
+D:\111\222\BuildEverythingSolution\BuildEverything\bin\Debug\Resources\cancel.png
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\Resources\microsoftsql-server.png
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\Resources\BuildEverythingCmd.png
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\BuildEverything.dll.config
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\BuildEverything.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\BuildEverything.pkgdef
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\BuildEverything.vsix
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\extension.vsixmanifest
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\EnvDTE.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\EnvDTE100.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\EnvDTE80.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\EnvDTE90.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\Microsoft.VisualStudio.CommandBars.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\Microsoft.VisualStudio.Threading.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\Microsoft.VisualStudio.Validation.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\MySql.Data.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\NVelocity.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\stdole.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\EnvDTE90a.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\Microsoft.VisualStudio.Text.Data.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\Microsoft.MSXML.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\Microsoft.VisualStudio.Threading.xml
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\Microsoft.VisualStudio.Validation.xml
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\NVelocity.xml
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\Microsoft.VisualStudio.Text.Data.xml
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\cs\Microsoft.VisualStudio.Threading.resources.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\de\Microsoft.VisualStudio.Threading.resources.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\es\Microsoft.VisualStudio.Threading.resources.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\fr\Microsoft.VisualStudio.Threading.resources.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\it\Microsoft.VisualStudio.Threading.resources.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\ja\Microsoft.VisualStudio.Threading.resources.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\ko\Microsoft.VisualStudio.Threading.resources.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\pl\Microsoft.VisualStudio.Threading.resources.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\ru\Microsoft.VisualStudio.Threading.resources.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\tr\Microsoft.VisualStudio.Threading.resources.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\cs\Microsoft.VisualStudio.Validation.resources.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\de\Microsoft.VisualStudio.Validation.resources.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\es\Microsoft.VisualStudio.Validation.resources.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\fr\Microsoft.VisualStudio.Validation.resources.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\it\Microsoft.VisualStudio.Validation.resources.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\ja\Microsoft.VisualStudio.Validation.resources.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\ko\Microsoft.VisualStudio.Validation.resources.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\pl\Microsoft.VisualStudio.Validation.resources.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\ru\Microsoft.VisualStudio.Validation.resources.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\tr\Microsoft.VisualStudio.Validation.resources.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\bin\Debug\zh-Hans\Microsoft.VisualStudio.GraphModel.resources.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\obj\Debug\VSPackage.resources
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\obj\Debug\BuildEverything.FormFiles.BEMainForm.resources
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\obj\Debug\BuildEverything.FormFiles.TempConnect.resources
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\obj\Debug\BuildEverything.csproj.GenerateResource.Cache
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\obj\Debug\BuildEverythingCmdPackage.cto
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\obj\Debug\VSCT.read.1.tlog
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\obj\Debug\VSCT.write.1.tlog
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\obj\Debug\CtoResourceMerger.cache
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\obj\Debug\VSPackage.resources.original
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\obj\Debug\BuildEverything.csproj.CoreCompileInputs.cache
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\obj\Debug\BuildEverything.dll
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\obj\Debug\BuildEverything.pdb
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\obj\Debug\BuildEverything.pkgdef
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\obj\Debug\BuildEverything.latest.pkgdef
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\obj\Debug\extension.vsixmanifest
+D:\111\222\BuildEverythingSolution - 副本\BuildEverything\obj\Debug\BuildEverything.csprojResolveAssemblyReference.cache
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\Resources\microsoftsql-server.png
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\Resources\BuildEverythingCmd.png
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\BuildEverything.dll.config
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\BuildEverything.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\BuildEverything.pkgdef
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\BuildEverything.vsix
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\extension.vsixmanifest
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\EnvDTE.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\EnvDTE100.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\EnvDTE80.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\EnvDTE90.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.CommandBars.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Threading.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Validation.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\MySql.Data.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\NVelocity.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\stdole.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\EnvDTE90a.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Text.Data.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.MSXML.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Threading.xml
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Validation.xml
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\NVelocity.xml
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Text.Data.xml
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\cs\Microsoft.VisualStudio.Threading.resources.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\de\Microsoft.VisualStudio.Threading.resources.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\es\Microsoft.VisualStudio.Threading.resources.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\fr\Microsoft.VisualStudio.Threading.resources.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\it\Microsoft.VisualStudio.Threading.resources.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\ja\Microsoft.VisualStudio.Threading.resources.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\ko\Microsoft.VisualStudio.Threading.resources.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\pl\Microsoft.VisualStudio.Threading.resources.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\ru\Microsoft.VisualStudio.Threading.resources.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\tr\Microsoft.VisualStudio.Threading.resources.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\cs\Microsoft.VisualStudio.Validation.resources.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\de\Microsoft.VisualStudio.Validation.resources.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\es\Microsoft.VisualStudio.Validation.resources.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\fr\Microsoft.VisualStudio.Validation.resources.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\it\Microsoft.VisualStudio.Validation.resources.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\ja\Microsoft.VisualStudio.Validation.resources.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\ko\Microsoft.VisualStudio.Validation.resources.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\pl\Microsoft.VisualStudio.Validation.resources.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\ru\Microsoft.VisualStudio.Validation.resources.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\tr\Microsoft.VisualStudio.Validation.resources.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\bin\Debug\zh-Hans\Microsoft.VisualStudio.GraphModel.resources.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\obj\Debug\VSPackage.resources
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\obj\Debug\BuildEverything.FormFiles.BEMainForm.resources
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\obj\Debug\BuildEverything.FormFiles.TempConnect.resources
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\obj\Debug\BuildEverything.csproj.GenerateResource.Cache
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\obj\Debug\BuildEverythingCmdPackage.cto
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\obj\Debug\VSCT.read.1.tlog
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\obj\Debug\VSCT.write.1.tlog
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\obj\Debug\CtoResourceMerger.cache
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\obj\Debug\VSPackage.resources.original
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\obj\Debug\BuildEverything.csproj.CoreCompileInputs.cache
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\obj\Debug\BuildEverything.dll
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\obj\Debug\BuildEverything.pdb
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\obj\Debug\BuildEverything.pkgdef
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\obj\Debug\BuildEverything.latest.pkgdef
+D:\MyConfiguration\hb6111\Desktop\BuildEverythingSolution\BuildEverything\obj\Debug\extension.vsixmanifest
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\Resources\microsoftsql-server.png
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\Resources\BuildEverythingCmd.png
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\BuildEverything.dll.config
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\BuildEverything.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\BuildEverything.pkgdef
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\BuildEverything.vsix
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\extension.vsixmanifest
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\EnvDTE.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\EnvDTE100.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\EnvDTE80.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\EnvDTE90.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.CommandBars.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Threading.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Validation.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\MySql.Data.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\NVelocity.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\stdole.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\EnvDTE90a.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Text.Data.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.MSXML.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Threading.xml
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Validation.xml
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\NVelocity.xml
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.Text.Data.xml
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\cs\Microsoft.VisualStudio.Threading.resources.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\de\Microsoft.VisualStudio.Threading.resources.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\es\Microsoft.VisualStudio.Threading.resources.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\fr\Microsoft.VisualStudio.Threading.resources.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\it\Microsoft.VisualStudio.Threading.resources.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\ja\Microsoft.VisualStudio.Threading.resources.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\ko\Microsoft.VisualStudio.Threading.resources.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\pl\Microsoft.VisualStudio.Threading.resources.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\ru\Microsoft.VisualStudio.Threading.resources.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\tr\Microsoft.VisualStudio.Threading.resources.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\cs\Microsoft.VisualStudio.Validation.resources.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\de\Microsoft.VisualStudio.Validation.resources.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\es\Microsoft.VisualStudio.Validation.resources.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\fr\Microsoft.VisualStudio.Validation.resources.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\it\Microsoft.VisualStudio.Validation.resources.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\ja\Microsoft.VisualStudio.Validation.resources.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\ko\Microsoft.VisualStudio.Validation.resources.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\pl\Microsoft.VisualStudio.Validation.resources.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\ru\Microsoft.VisualStudio.Validation.resources.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\tr\Microsoft.VisualStudio.Validation.resources.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+D:\222\BuildEverythingSolution\BuildEverything\bin\Debug\zh-Hans\Microsoft.VisualStudio.GraphModel.resources.dll
+D:\222\BuildEverythingSolution\BuildEverything\obj\Debug\BuildEverything.csprojResolveAssemblyReference.cache
+D:\222\BuildEverythingSolution\BuildEverything\obj\Debug\VSPackage.resources
+D:\222\BuildEverythingSolution\BuildEverything\obj\Debug\BuildEverything.FormFiles.BEMainForm.resources
+D:\222\BuildEverythingSolution\BuildEverything\obj\Debug\BuildEverything.FormFiles.TempConnect.resources
+D:\222\BuildEverythingSolution\BuildEverything\obj\Debug\BuildEverything.csproj.GenerateResource.Cache
+D:\222\BuildEverythingSolution\BuildEverything\obj\Debug\BuildEverythingCmdPackage.cto
+D:\222\BuildEverythingSolution\BuildEverything\obj\Debug\VSCT.read.1.tlog
+D:\222\BuildEverythingSolution\BuildEverything\obj\Debug\VSCT.write.1.tlog
+D:\222\BuildEverythingSolution\BuildEverything\obj\Debug\CtoResourceMerger.cache
+D:\222\BuildEverythingSolution\BuildEverything\obj\Debug\VSPackage.resources.original
+D:\222\BuildEverythingSolution\BuildEverything\obj\Debug\BuildEverything.csproj.CoreCompileInputs.cache
+D:\222\BuildEverythingSolution\BuildEverything\obj\Debug\BuildEverything.dll
+D:\222\BuildEverythingSolution\BuildEverything\obj\Debug\BuildEverything.pdb
+D:\222\BuildEverythingSolution\BuildEverything\obj\Debug\BuildEverything.pkgdef
+D:\222\BuildEverythingSolution\BuildEverything\obj\Debug\BuildEverything.latest.pkgdef
+D:\222\BuildEverythingSolution\BuildEverything\obj\Debug\extension.vsixmanifest
